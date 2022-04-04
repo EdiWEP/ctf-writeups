@@ -13,6 +13,12 @@ Writeups of CTFs I finished or attempted
 - [Reverse Engineering](./Tryhackme/Reverse%20Engineering)
 - [Investigating Windows](./Tryhackme/Investigating%20Windows)
 
+## picoCTF 2022
+- [basic-mod1](./picoCTF%202022/basic-mod1/)
+- [basic-mod2](./picoCTF%202022/basic-mod2/)
+- [credstuff](./picoCTF%202022/credstuff/)
+- [SideChannel](./picoCTF%202022/sidechannel/)
+
 ## CyberEdu CTFs and challenges
 
 - [why-xor](./CyberEdu/why-xor)
